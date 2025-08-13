@@ -7,6 +7,7 @@ Key Components:
 LangChain Integration:
 
 LangChain serves as the backbone for the NLP processing in this project. It allows the system to translate natural language inputs into SQL queries that can be executed against a connected database.
+
 SQL Database Connectivity:
 
 The project is built to connect to any SQL database (e.g., MySQL, PostgreSQL, SQLite) through a database connector. The database schema is used to inform the NLP model of the structure of the data, enabling more accurate query generation.
